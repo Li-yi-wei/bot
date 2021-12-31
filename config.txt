@@ -13,7 +13,7 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token = OTI2MzU5MjIyOTYxMjAxMTgy.Yc6hQQ.8eNufl1jEJtiGWTr7zWSG7rjbdk
+token = OTI2MzU5MjIyOTYxMjAxMTgy.Yc6hQQ.q59OzDiPoEgtdnE3KZLsXcrLxBQ
 
 
 // This sets the owner of the bot
@@ -62,9 +62,9 @@ altprefix = "NONE"
 
 // If you set these, it will change the various emojis
 
-success = ":thumbsup: Ž¶"
+success = ":thumbsup: Å½Â¶"
 warning = ":middle_finger: "
-error = ":skull: š«"
+error = ":skull: Å¡Â«"
 loading = ":clock4: "
 searching = ":eyes: "
 
